@@ -7,6 +7,7 @@ Stuff that helps people with ADHD to have a awesome life.
 - [Productivity](#Productivity)
 - - [Brain Hacks](#Brain_Hacks)
 - - [Time Managment](#Time_Managment)
+- [Houshold](#Houshold)
 
 
 ## Productivity
@@ -15,3 +16,6 @@ Stuff that helps people with ADHD to have a awesome life.
 
 ### Time Managment
 - [The Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method)
+
+## Houshold
+- Put your T-Shirts after the Washing machine directly on the hanger to dry and then store
