@@ -18,4 +18,5 @@ Stuff that helps people with ADHD to have a awesome life.
 - [The Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method)
 
 ## Houshold
-- Put your T-Shirts after the Washing machine directly on the hanger to dry and then store
+- Put your T-Shirts after the Washing machine directly on the hanger to dry and then store (reduce dread)
+- Just throw the underware and socks into a box after drying (reduce dread)
