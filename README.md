@@ -5,6 +5,8 @@ Stuff that helps people with ADHD to have a awesome life.
 
 ## Index
 - [Productivity](#Productivity)
+- - [Brain Hacks](#Brain_Hacks)
+- - [Time Managment](#Time_Managment)
 
 
 ## Productivity
