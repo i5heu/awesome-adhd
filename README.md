@@ -1,4 +1,4 @@
-# Awesome ADHD Productivity
+# Awesome ADHD
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Stuff that helps people with ADHD to have a awesome life.
